@@ -1,0 +1,153 @@
+/**
+ * Custom Athletic & Jersey Fonts
+ * 
+ * To use these fonts, you need to:
+ * 1. Download the font files (.ttf, .woff, .woff2) from their respective sources
+ * 2. Place them in the /public/fonts/ directory
+ * 3. Uncomment the @font-face declarations below
+ * 
+ * Font Sources:
+ * - Old Sport Athletic: https://www.dafont.com/old-sport-athletic.font
+ * - Jackport College NCV: https://www.dafont.com/jackport-college-ncv.font
+ * - Collegiate Heavy Outline: https://www.dafont.com/collegiate.font
+ * - High School USA: https://www.dafont.com/high-school-usa.font
+ * - FTY Delirium NCV: https://www.dafont.com/fty-delirium-ncv.font
+ * - Jersey M54: https://www.dafont.com/jersey-m54.font
+ * - Jersey Letters: https://www.dafont.com/jersey-letters.font
+ * - SF Collegiate: https://www.dafont.com/sf-collegiate.font
+ * - Universal College: https://www.dafont.com/universal-college.font
+ * - Friday Night Lights: https://www.dafont.com/friday-night-lights.font
+ * - Sporting Outline: https://www.dafont.com/sporting-outline.font
+ * - Star Shield: https://www.dafont.com/star-shield.font
+ * - Atlanta College: https://www.dafont.com/atlanta-college.font
+ */
+
+/* Old Sport Athletic */
+@font-face {
+    font-family: 'Old Sport Athletic';
+    src: url('/fonts/OldSportAthletic.woff2') format('woff2'),
+         url('/fonts/OldSportAthletic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Jackport College NCV */
+@font-face {
+    font-family: 'Jackport College NCV';
+    src: url('/fonts/JackportCollegeNCV.woff2') format('woff2'),
+         url('/fonts/JackportCollegeNCV.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Collegiate Heavy Outline */
+@font-face {
+    font-family: 'Collegiate Heavy Outline';
+    src: url('/fonts/CollegiateHeavyOutline.woff2') format('woff2'),
+         url('/fonts/CollegiateHeavyOutline.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* High School USA */
+@font-face {
+    font-family: 'High School USA';
+    src: url('/fonts/HighSchoolUSA.woff2') format('woff2'),
+         url('/fonts/HighSchoolUSA.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* FTY Delirium NCV */
+@font-face {
+    font-family: 'FTY Delirium NCV';
+    src: url('/fonts/FTYDeliriumNCV.woff2') format('woff2'),
+         url('/fonts/FTYDeliriumNCV.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Jersey M54 */
+@font-face {
+    font-family: 'Jersey M54';
+    src: url('/fonts/JerseyM54.woff2') format('woff2'),
+         url('/fonts/JerseyM54.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Jersey Letters */
+@font-face {
+    font-family: 'Jersey Letters';
+    src: url('/fonts/JerseyLetters.woff2') format('woff2'),
+         url('/fonts/JerseyLetters.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* SF Collegiate */
+@font-face {
+    font-family: 'SF Collegiate';
+    src: url('/fonts/SFCollegiate.woff2') format('woff2'),
+         url('/fonts/SFCollegiate.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Universal College */
+@font-face {
+    font-family: 'Universal College';
+    src: url('/fonts/UniversalCollege.woff2') format('woff2'),
+         url('/fonts/UniversalCollege.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Friday Night Lights */
+@font-face {
+    font-family: 'Friday Night Lights';
+    src: url('/fonts/FridayNightLights.woff2') format('woff2'),
+         url('/fonts/FridayNightLights.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Sporting Outline */
+@font-face {
+    font-family: 'Sporting Outline';
+    src: url('/fonts/SportingOutline.woff2') format('woff2'),
+         url('/fonts/SportingOutline.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Star Shield */
+@font-face {
+    font-family: 'Star Shield';
+    src: url('/fonts/StarShield.woff2') format('woff2'),
+         url('/fonts/StarShield.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Atlanta College */
+@font-face {
+    font-family: 'Atlanta College';
+    src: url('/fonts/AtlantaCollege.woff2') format('woff2'),
+         url('/fonts/AtlantaCollege.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
